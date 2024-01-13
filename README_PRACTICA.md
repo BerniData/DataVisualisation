@@ -1,0 +1,1 @@
+Link de l'informe realitzat: https://app.powerbi.com/view?r=eyJrIjoiYzFjZDE0YzUtNGNjNC00ODU0LWIwMDctZTIwMTcxNmZjOTg3IiwidCI6ImQxODBhOTI0LWE1YTMtNDlmYy05NWU2LWMwY2Y0OGE2OTkxNiIsImMiOjl9 
